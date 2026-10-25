@@ -1,0 +1,4 @@
+scenario,bad_rate_at_548,profit_at_548,approve_all_profit,best_cutoff,approval_at_best,profit_at_best,cost_of_not_adjusting
+Base,3.0,2595022,1727289,548,87.1,2595022,0
+Mild recession,4.5,2053678,340267,562,77.4,2180683,127006
+Severe recession,6.0,1316667,-1548089,573,68.6,1764933,448267
