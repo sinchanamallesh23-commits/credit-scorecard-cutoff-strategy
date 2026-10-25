@@ -1,0 +1,56 @@
+feature,bin,woe,points
+utilisation,"(-inf, 0.1]",1.3348,80
+utilisation,"(0.1, 0.3]",0.8476,71
+utilisation,"(0.3, 0.5]",0.1519,59
+utilisation,"(0.5, 0.7]",-0.4285,49
+utilisation,"(0.7, 0.9]",-0.8934,40
+utilisation,"(0.9, 1.0]",-1.2095,35
+utilisation,"(1.0, inf]",-2.1965,17
+utilisation,Missing,-0.3802,49
+age,"(-inf, 30.0]",-0.5752,50
+age,"(30.0, 40.0]",-0.4175,52
+age,"(40.0, 50.0]",-0.2167,54
+age,"(50.0, 60.0]",0.0776,57
+age,"(60.0, 70.0]",0.6575,63
+age,"(70.0, inf]",1.0807,67
+late_30_59,"(-inf, 0.0]",0.5318,64
+late_30_59,"(0.0, 1.0]",-0.8846,44
+late_30_59,"(1.0, 2.0]",-1.6186,33
+late_30_59,"(2.0, inf]",-2.1754,25
+late_30_59,Missing,-2.7879,17
+debt_ratio,"(-inf, 0.2]",0.1091,59
+debt_ratio,"(0.2, 0.4]",0.166,60
+debt_ratio,"(0.4, 0.6]",-0.1511,53
+debt_ratio,"(0.6, 0.8]",-0.4773,45
+debt_ratio,"(0.8, 1.0]",-0.6599,40
+debt_ratio,"(1.0, inf]",-0.4458,45
+debt_ratio,Missing,0.2108,61
+monthly_income,"(-inf, 2000.0]",-0.2525,56
+monthly_income,"(2000.0, 3500.0]",-0.3772,55
+monthly_income,"(3500.0, 5000.0]",-0.2088,56
+monthly_income,"(5000.0, 7500.0]",0.0266,56
+monthly_income,"(7500.0, 10000.0]",0.2724,57
+monthly_income,"(10000.0, inf]",0.4682,57
+monthly_income,Missing,0.2108,57
+open_credit_lines,"(-inf, 2.0]",-0.7319,55
+open_credit_lines,"(2.0, 5.0]",-0.0009,56
+open_credit_lines,"(5.0, 10.0]",0.1903,56
+open_credit_lines,"(10.0, 15.0]",0.1012,56
+open_credit_lines,"(15.0, inf]",-0.0304,56
+late_90,"(-inf, 0.0]",0.3957,62
+late_90,"(0.0, 1.0]",-1.9613,26
+late_90,"(1.0, inf]",-2.8548,12
+late_90,Missing,-2.7879,13
+real_estate_loans,"(-inf, 0.0]",-0.2335,52
+real_estate_loans,"(0.0, 1.0]",0.2593,61
+real_estate_loans,"(1.0, 2.0]",0.1861,59
+real_estate_loans,"(2.0, inf]",-0.2759,52
+late_60_89,"(-inf, 0.0]",0.2892,59
+late_60_89,"(0.0, 1.0]",-1.8389,36
+late_60_89,"(1.0, inf]",-2.7501,26
+late_60_89,Missing,-2.7879,26
+dependents,"(-inf, 0.0]",0.135,57
+dependents,"(0.0, 1.0]",-0.1083,55
+dependents,"(1.0, 2.0]",-0.2067,54
+dependents,"(2.0, inf]",-0.3418,53
+dependents,Missing,0.5065,61
